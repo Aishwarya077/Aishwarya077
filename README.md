@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Aishwarya077
-- 👀 I’m interested in Blockchain, front End Development, AI&ML
+- 👋 Hi, I’m Aishwarya
+- 👀 I’m interested in Blockchain, front End Development, AI&ML, Python, Data Structures, Leetcode
 - 🌱 I’m currently doing my BTech in Computer Science with Blockchain Specialization
 - 💞️ I’m looking for Internships with Blockchain companies
 - 📫 aishwarya.rk3@gmail.com
